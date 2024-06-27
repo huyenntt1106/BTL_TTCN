@@ -1,0 +1,44 @@
+D:\Năm 3\TTCN\BTL_TTCN\BTL_TTCN\bin\Debug\BTL_TTCN.exe.config
+D:\Năm 3\TTCN\BTL_TTCN\BTL_TTCN\bin\Debug\BTL_TTCN.exe
+D:\Năm 3\TTCN\BTL_TTCN\BTL_TTCN\bin\Debug\BTL_TTCN.pdb
+D:\Năm 3\TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.csproj.AssemblyReference.cache
+D:\Năm 3\TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Properties.Resources.resources
+D:\Năm 3\TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.csproj.GenerateResource.cache
+D:\Năm 3\TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.csproj.CoreCompileInputs.cache
+D:\Năm 3\TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.exe
+D:\Năm 3\TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.pdb
+D:\Năm 3\TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.TrangChu.resources
+C:\Users\Asus\Downloads\BTL_TTCN\BTL_TTCN\bin\Debug\BTL_TTCN.exe.config
+C:\Users\Asus\Downloads\BTL_TTCN\BTL_TTCN\bin\Debug\BTL_TTCN.exe
+C:\Users\Asus\Downloads\BTL_TTCN\BTL_TTCN\bin\Debug\BTL_TTCN.pdb
+C:\Users\Asus\Downloads\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.TrangChu.resources
+C:\Users\Asus\Downloads\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Properties.Resources.resources
+C:\Users\Asus\Downloads\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.exe
+C:\Users\Asus\Downloads\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.pdb
+C:\Users\Asus\Downloads\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Forms.frmChamCongCaNhan.resources
+C:\Users\Asus\Downloads\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Forms.frmQuanLyChamCong.resources
+C:\Users\Asus\Downloads\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Forms.frmXemBangLuong.resources
+C:\Users\Asus\Downloads\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Forms.frmQuanLyLuong.resources
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\bin\Debug\BTL_TTCN.exe.config
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\bin\Debug\BTL_TTCN.exe
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\bin\Debug\BTL_TTCN.pdb
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.csproj.AssemblyReference.cache
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Forms.frmChamCongCaNhan.resources
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Forms.frmQuanLyChamCong.resources
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Forms.frmQuanLyLuong.resources
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Forms.frmXemBangLuong.resources
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.TrangChu.resources
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Properties.Resources.resources
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.csproj.GenerateResource.cache
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.csproj.CoreCompileInputs.cache
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.exe
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.pdb
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Forms.frmDangKyCaLam.resources
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Forms.frmDangNhap.resources
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Forms.frmResetMK.resources
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Forms.frmQuanLyLichLam.resources
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Forms.frmTaoDon.resources
+C:\Users\Thu Huyen\Downloads\BTL_TTCN\BTL_TTCN\BTL_TTCN\obj\Debug\BTL_TTCN.Forms.frmQuanLyDon.resources
